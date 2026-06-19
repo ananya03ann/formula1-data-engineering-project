@@ -1,0 +1,92 @@
+[
+  {
+    "driverId": 1,
+    "driverRef": "hamilton",
+    "number": 44,
+    "code": "HAM",
+    "forename": "Lewis",
+    "surname": "Hamilton",
+    "nationality": "British",
+    "constructorId": "mercedes"
+  },
+  {
+    "driverId": 2,
+    "driverRef": "verstappen",
+    "number": 1,
+    "code": "VER",
+    "forename": "Max",
+    "surname": "Verstappen",
+    "nationality": "Dutch",
+    "constructorId": "red_bull"
+  },
+  {
+    "driverId": 3,
+    "driverRef": "leclerc",
+    "number": 16,
+    "code": "LEC",
+    "forename": "Charles",
+    "surname": "Leclerc",
+    "nationality": "Monégasque",
+    "constructorId": "ferrari"
+  },
+  {
+    "driverId": 4,
+    "driverRef": "norris",
+    "number": 4,
+    "code": "NOR",
+    "forename": "Lando",
+    "surname": "Norris",
+    "nationality": "British",
+    "constructorId": "mclaren"
+  },
+  {
+    "driverId": 5,
+    "driverRef": "russell",
+    "number": 63,
+    "code": "RUS",
+    "forename": "George",
+    "surname": "Russell",
+    "nationality": "British",
+    "constructorId": "mercedes"
+  },
+  {
+    "driverId": 6,
+    "driverRef": "sainz",
+    "number": 55,
+    "code": "SAI",
+    "forename": "Carlos",
+    "surname": "Sainz",
+    "nationality": "Spanish",
+    "constructorId": "ferrari"
+  },
+  {
+    "driverId": 7,
+    "driverRef": "alonso",
+    "number": 14,
+    "code": "ALO",
+    "forename": "Fernando",
+    "surname": "Alonso",
+    "nationality": "Spanish",
+    "constructorId": "aston_martin"
+  },
+  {
+    "driverId": 8,
+    "driverRef": "piastri",
+    "number": 81,
+    "code": "PIA",
+    "forename": "Oscar",
+    "surname": "Piastri",
+    "nationality": "Australian",
+    "constructorId": "mclaren"
+  },
+  {
+    "driverId": 9,
+    "driverRef": "gasly",
+    "number": 10,
+    "code": "GAS",
+    "forename": "Pierre",
+    "surname": "Gasly",
+    "nationality": "French",
+    "constructorId": "alpine"
+  }
+]
