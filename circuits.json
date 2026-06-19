@@ -1,0 +1,56 @@
+[
+  {
+    "circuitId": "silverstone",
+    "circuitName": "Silverstone Circuit",
+    "country": "United Kingdom",
+    "city": "Silverstone"
+  },
+  {
+    "circuitId": "monza",
+    "circuitName": "Autodromo Nazionale Monza",
+    "country": "Italy",
+    "city": "Monza"
+  },
+  {
+    "circuitId": "spa",
+    "circuitName": "Circuit de Spa-Francorchamps",
+    "country": "Belgium",
+    "city": "Spa"
+  },
+  {
+    "circuitId": "yas_marina",
+    "circuitName": "Yas Marina Circuit",
+    "country": "UAE",
+    "city": "Abu Dhabi"
+  },
+  {
+    "circuitId": "suzuka",
+    "circuitName": "Suzuka Circuit",
+    "country": "Japan",
+    "city": "Suzuka"
+  },
+  {
+    "circuitId": "interlagos",
+    "circuitName": "Autodromo Jose Carlos Pace",
+    "country": "Brazil",
+    "city": "Sao Paulo"
+  },
+  {
+    "circuitId": "marina_bay",
+    "circuitName": "Marina Bay Street Circuit",
+    "country": "Singapore",
+    "city": "Singapore"
+  },
+  {
+    "circuitId": "cota",
+    "circuitName": "Circuit of the Americas",
+    "country": "USA",
+    "city": "Austin"
+  },
+  {
+    "circuitId": "albert_park",
+    "circuitName": "Albert Park Circuit",
+    "country": "Australia",
+    "city": "Melbourne"
+  }
+]
