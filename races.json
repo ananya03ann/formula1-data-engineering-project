@@ -1,0 +1,74 @@
+[
+  {
+    "raceId": 1,
+    "raceName": "British Grand Prix",
+    "year": 2024,
+    "round": 1,
+    "circuitId": "silverstone",
+    "date": "2024-07-07"
+  },
+  {
+    "raceId": 2,
+    "raceName": "Italian Grand Prix",
+    "year": 2024,
+    "round": 2,
+    "circuitId": "monza",
+    "date": "2024-09-01"
+  },
+  {
+    "raceId": 3,
+    "raceName": "Belgian Grand Prix",
+    "year": 2024,
+    "round": 3,
+    "circuitId": "spa",
+    "date": "2024-07-28"
+  },
+  {
+    "raceId": 4,
+    "raceName": "Abu Dhabi Grand Prix",
+    "year": 2024,
+    "round": 4,
+    "circuitId": "yas_marina",
+    "date": "2024-12-08"
+  },
+  {
+    "raceId": 5,
+    "raceName": "Japanese Grand Prix",
+    "year": 2024,
+    "round": 5,
+    "circuitId": "suzuka",
+    "date": "2024-04-07"
+  },
+  {
+    "raceId": 6,
+    "raceName": "Brazilian Grand Prix",
+    "year": 2024,
+    "round": 6,
+    "circuitId": "interlagos",
+    "date": "2024-11-03"
+  },
+  {
+    "raceId": 7,
+    "raceName": "Singapore Grand Prix",
+    "year": 2024,
+    "round": 7,
+    "circuitId": "marina_bay",
+    "date": "2024-09-22"
+  },
+  {
+    "raceId": 8,
+    "raceName": "United States Grand Prix",
+    "year": 2024,
+    "round": 8,
+    "circuitId": "cota",
+    "date": "2024-10-20"
+  },
+  {
+    "raceId": 9,
+    "raceName": "Australian Grand Prix",
+    "year": 2024,
+    "round": 9,
+    "circuitId": "albert_park",
+    "date": "2024-03-24"
+  }
+]
